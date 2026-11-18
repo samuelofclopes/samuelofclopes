@@ -2,7 +2,7 @@
 
 **Estudante de Programação | Programador Backend**
 
-Sou um jovem programador com 15 anos, completamente apaixonado por programação e focado em Backend. Adoro resolver problemas complexos, explorar novos conceitos práticos ou teoricos. 
+Sou um jovem programador com ** anos, completamente apaixonado por programação e focado em Backend. Adoro resolver problemas complexos, explorar novos conceitos práticos ou teoricos. 
 
 ---
 
